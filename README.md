@@ -1,2 +1,2 @@
 # first-repository
-This is a google cloud platform cloud first project
+This is a google App Engine first repository
